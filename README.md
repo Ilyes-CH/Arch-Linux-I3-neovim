@@ -5,12 +5,12 @@ I also included my Neovim configuration for my dev setup which is based on astro
 
 ## Screenshots
 
-![i3]('./i3.png')
+![i3]('i3.png')
 
-![i3]('./i3float.png')
+![i3]('i3float.png')
 
-![i3]('./i3blocks.png')
+![i3]('i3blocks.png')
 
-![nvim]('./nvim.png')
+![nvim]('nvim.png')
 
-![nvim]('./nvimlanding.png')
+![nvim]('nvimlanding.png')
